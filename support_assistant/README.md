@@ -236,16 +236,18 @@ The application retrieves relevant information and generates a response using th
 
 Security
 
-The OpenRouter API key is stored in .env.
+The OpenRouter API key is stored in `.env`
 
-The .env file must not be uploaded to GitHub.
+The `.env` file must not be uploaded to GitHub.
 
 The project .gitignore should contain:
 
+```text
 .env
 support_assistant/chroma_db/
 __pycache__/
 *.pyc
+```
 
 
 ## Development Status
