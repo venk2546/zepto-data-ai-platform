@@ -260,3 +260,15 @@ The system has been tested with:
 - Low-confidence human escalation
 - ChromaDB retrieval
 - LLM response generation
+
+
+## Future Improvements
+
+Possible future improvements include:
+
+- Better retrieval ranking
+- More advanced conversation context handling
+- Additional support documents
+- Improved confidence scoring
+- Human support integration
+- Logging and monitoring
