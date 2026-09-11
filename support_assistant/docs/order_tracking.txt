@@ -1,0 +1,15 @@
+Order Tracking
+
+Customers can track an active order using the order tracking feature.
+
+After an order is successfully placed, the customer can view the current order status.
+
+Order statuses may change as the order moves through the fulfillment and delivery process.
+
+The estimated delivery time may change because of traffic, weather, order volume, item availability, or other operational conditions.
+
+If the order appears to be delayed, customers should first check the latest status in the application.
+
+If additional assistance is required, customers can contact customer support with their order details.
+
+Tracking information is available for eligible active orders.

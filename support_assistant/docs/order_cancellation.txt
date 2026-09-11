@@ -1,0 +1,15 @@
+Order Cancellation
+
+Customers may be able to cancel an order before it reaches a stage where cancellation is no longer possible.
+
+Cancellation availability depends on the current status of the order.
+
+If the cancellation option is available in the application, customers can use that option to request cancellation.
+
+Once an order has progressed too far in the fulfillment or delivery process, cancellation may not be available.
+
+If a cancellation is successfully processed, any applicable refund will be handled according to the payment and refund policy.
+
+Customers should check the order status before attempting cancellation.
+
+If the customer cannot cancel an eligible order through the application, they can contact customer support for assistance.

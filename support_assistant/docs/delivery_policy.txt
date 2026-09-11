@@ -1,0 +1,15 @@
+Delivery Policy
+
+Zepto provides fast delivery for eligible orders.
+
+Standard delivery is normally completed within 10 to 30 minutes, depending on location, traffic, weather, item availability, and order volume.
+
+Customers can view the estimated delivery time before placing an order.
+
+Some locations may have different delivery times based on operational availability.
+
+Customers should ensure that the delivery address and contact information are correct when placing an order.
+
+If a delivery is delayed, the customer can check the order status through the order tracking option or contact customer support.
+
+Delivery charges, if applicable, are displayed during checkout before the order is placed.
