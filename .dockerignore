@@ -1,0 +1,7 @@
+.env
+.venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+support_assistant/chroma_db/

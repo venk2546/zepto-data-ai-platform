@@ -8,3 +8,10 @@ scikit-learn
 imbalanced-learn
 joblib
 jupyter
+sentence-transformers
+chromadb
+python-dotenv
+openai
+langgraph
+fastapi
+uvicorn
